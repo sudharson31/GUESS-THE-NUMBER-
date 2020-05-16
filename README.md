@@ -1,4 +1,3 @@
-# GUESS-THE-NUMBER-
-Practice Exercise in Python for Beginners. Create a Guess the Number game. 
+# GUESS-THE-NUMBER- 
 
 [------------------python Beginner Project-1------------------]
